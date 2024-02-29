@@ -4,7 +4,7 @@ Hello ! I am David, a French junior developer.
 
 "He who loves to learn is very close to knowledge."
 
-Currently seeking an internship as part of my Simplon training.
+Currently seeking an internship as part of my Simplon training from June 17th to October 11th 2024.
 
 ## Education
 
