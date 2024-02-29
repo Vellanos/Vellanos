@@ -4,11 +4,13 @@ Hello ! I am David, a French junior developer.
 
 "He who loves to learn is very close to knowledge."
 
-"Currently seeking an internship as part of my Simplon training."
+Currently seeking an internship as part of my Simplon training.
 
 ## Education
 
 ✅ Graduated with a DUT (University Technology Diploma) in Statistics and Information Decision-Making (STID) and a professional bachelor's degree in Statistical Studies and Geographic Information Systems (ESSIG) from Grenoble.
+
+[IUT 2 of Grenoble](https://iut2.univ-grenoble-alpes.fr/iut2/accueil-iut2-998644.kjsp)
 
 ✅ Graduated in Web & Mobile Development from Simplon Chambéry.
 
