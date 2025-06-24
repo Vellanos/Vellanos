@@ -12,9 +12,11 @@ Currently seeking an apprenticeship starting on October 10th, 2025, as part of m
 
 [IUT 2 of Grenoble](https://iut2.univ-grenoble-alpes.fr/iut2/accueil-iut2-998644.kjsp)
 
-✅ Graduated in Web & Mobile Development from Simplon Chambéry.
+✅ Graduated in Web & Mobile Development from Simplon Chambéry
 
-⏳ Currently undergoing training as an Application Developer at Simplon Grenoble. 
+✅ Graduated as an Application Developer from Simplon Grenoble
+
+⏳ Currently preparing a Master's-level Data Engineer program with Simplon (starting October 2025)
 
 [Simplon website](https://simplon.co/)
 
